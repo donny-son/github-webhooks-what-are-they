@@ -34,4 +34,4 @@ https://*********.ngrok.io/post-webhook
 
 Press `Update webhook` and check the response in Recent Deliveries.
 
-![image-20220302182457589](/Users/dongookson/Code/webhooks/img.png)
+![image-20220302182457589](img.png)
